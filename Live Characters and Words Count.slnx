@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Live Characters and Words Count.csproj">
+    <Deploy />
+  </Project>
+</Solution>
