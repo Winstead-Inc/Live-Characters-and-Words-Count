@@ -10,16 +10,11 @@
 
 <div align="center">
 
-  [![Visual Studio Marketplace](https://img.shields.io/badge/Available_on-VS_Marketplace-blue?logo=visual-studio)](https://marketplace.visualstudio.com/items?itemName=Winstead-Inc.LiveCharactersandWordsCount)
-  [![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-purple.svg)](LICENSE.md)
-
-</div>
-
 ---
 
 ## ✨ Features
 
-- **Real-Time Tracking:** Instantly updates the word and character count as you type. 
+- **Real-Time Tracking:** Instantly updates the word and character count as you type.
 - **Native UI Integration:** Injected directly into the Visual Studio status bar (bottom left, right beside the Git controls). It stays completely out of your main coding space.
 - **Zero Performance Impact:** Built on modern asynchronous Visual Studio extensibility APIs (`IWpfTextViewCreationListener`). The background calculation never blocks your typing or slows down your IDE.
 - **Minimalist Design:** Optimized specifically for dark mode and perfectly matches Visual Studio's native UI look and feel.
@@ -27,6 +22,7 @@
 ## 🚀 Installation
 
 ### Option 1: Visual Studio Marketplace (Recommended)
+
 1. Open Visual Studio.
 2. Go to **Extensions** > **Manage Extensions**.
 3. Search for **Live Characters and Words Count** under the "Online" tab.
@@ -35,6 +31,7 @@
 Alternatively, download it directly from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Winstead-Inc.LiveCharactersandWordsCount).
 
 ### Option 2: Manual Installation
+
 1. Go to the [Releases](https://github.com/Winstead-Inc/Live-Characters-and-Words-Count/releases) tab.
 2. Download the latest `.vsix` file.
 3. Double-click the file to launch the VSIX Installer.
@@ -50,6 +47,7 @@ The extension taps into Visual Studio's text buffer events to efficiently recalc
 ## ⚙️ Building from Source
 
 To build this extension locally, you will need:
+
 - **Visual Studio 2022** (or the Visual Studio 2026 Preview)
 - **Visual Studio extension development workload** (Installable via the Visual Studio Installer)
 
@@ -67,8 +65,5 @@ To build this extension locally, you will need:
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-<<<<<<< HEAD
-*Created by [Winstead-Inc](https://github.com/Winstead-Inc).*
-=======
-*Created by [Winstead-Inc](https://github.com/Winstead-Inc).*
->>>>>>> aa1b7fd2db6d1a61ab39f95d0473515c078e253f
+
+*Created by [Winstead-Inc](https://github.com/Winstead-Inc).
