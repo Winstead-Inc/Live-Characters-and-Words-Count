@@ -1,0 +1,1 @@
+# Live Characters & Words Count
