@@ -67,4 +67,8 @@ To build this extension locally, you will need:
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
+<<<<<<< HEAD
 *Created by [Winstead-Inc](https://github.com/Winstead-Inc).*
+=======
+*Created by [Winstead-Inc](https://github.com/Winstead-Inc).*
+>>>>>>> aa1b7fd2db6d1a61ab39f95d0473515c078e253f
